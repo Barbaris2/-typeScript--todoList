@@ -1,3 +1,5 @@
+![](https://github.com/Barbaris2/-typeScript--todoList/blob/master/images/1.png)
+
 # [typeScript]-todoList
 
 _React-TypeScript_ приложение - список дел. Классический TODO List. Создано при изучнии _TypeSCript_.
