@@ -3,7 +3,7 @@
 # [typeScript]-todoList
 
 _React-TypeScript_ приложение - список дел. Классический TODO List. Создано при изучнии _TypeSCript_.
-Смотрето на [codesandbox.io]()
+Смотрето на [codesandbox.io](https://k54ij.csb.app/)
 
 ### Быстрый старт
 
